@@ -19,7 +19,7 @@ global.website = process.env.GURL || "https://whatsapp.com/channel/0029VaYauR9IS
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg";
 global.devs = "254762016957,254110853827,254728746852,255655147353,254728782591";
 global.sudo = process.env.SUDO || "254762016957,254110853827,254728746852,255655147353,254728782591";
-global.owner = process.env.OWNER_NUMBER || "254762016957,254110853827,254728746852,255655147353,254728782591";
+global.owner = process.env.08069918096 || "254762016957,254110853827,254728746852,255655147353,254728782591";
 global.style = process.env.STYLE || "3";
 global.gdbye = process.env.GOODBYE || "false";
 global.wlcm = process.env.WELCOME || "false";
@@ -49,10 +49,10 @@ module.exports = {
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "3.0.0",
   caption: process.env.CAPTION || "*ɢɪғᴛᴇᴅ-ᴍᴅ ᴠᴇʀsɪᴏɴ 3.0.0*",
-  author: process.env.PACK_AUTHER || "Gifted Tech",
-  packname: process.env.PACK_NAME || "Gifted-Md♥️",
-  botname: process.env.BOT_NAME || "ɢɪғᴛᴇᴅ-ᴍᴅ",
-  ownername: process.env.OWNER_NAME || "ɢɪғᴛᴇᴅ ᴛᴇᴄʜ",
+  author: process.env.PACK_AUTHER || "VINCE_X",
+  packname: process.env.PACK_NAME || "VINCE",
+  botname: process.env. VINCE || "vince",
+  ownername: process.env.VINCE-X || "vince",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "neLbXXrp8bSDcohnp1CW5UEa",
